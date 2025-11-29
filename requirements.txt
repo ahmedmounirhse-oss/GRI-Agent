@@ -1,0 +1,15 @@
+watchdog
+pandas
+pyarrow
+streamlit
+langchain
+faiss-cpu
+openai
+jinja2
+weasyprint
+prefect
+scikit-learn
+matplotlib
+python-dotenv
+sendgrid
+pytest
